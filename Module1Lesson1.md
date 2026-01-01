@@ -1,10 +1,12 @@
-Activity: Reflecting on changes in quality responsibilities
+<h3>Activity:</h3> Reflecting on changes in quality responsibilities
 Take a moment to reflect on your time in software testing, and capture it in your portfolio. Why not also head over to this Club post to share your story and learn from others.
 
 What changes have you seen in how teams approach quality and testing?
 How have your own responsibilities or mindset changed as testing moved towards Quality Engineering?
 Which practices or ideas that once felt current now seem outdated? What replaced them?
 What advice would you give to someone adapting to these changes in quality responsibilities?
+
+<h3>Answer</h3>
 
 It’s interesting to look back with this mindset. I only had one job that had what could be described as test managers and testers. I was a tester and it sucked. It was also before I accepted my fate to be in QA and not development.   I think my experience is unique because I didn’t see changes at one company, I have moved around quite a bit. The changes came with new jobs.
 
