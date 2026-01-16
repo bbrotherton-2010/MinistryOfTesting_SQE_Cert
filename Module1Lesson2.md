@@ -1,24 +1,4 @@
-<h2>Activity: Applying quality engineering in practice </h2>
-Choose one or more core approaches to Quality Engineering:
-
-* Shift everywhere
-* Improving developer experience
-* Education
-* Stakeholder-relations
-* Systems thinking
-* Culture shift
-
-Describe how you could apply that approach at one stage of the software development lifecycle (for example, planning, development, or deployment).
-
-Capture your thoughts in your portfolio.
-
-Consider:
-
-What value would this approach bring at that stage?
-What challenges might you face when applying it?
-How would it differ from how you worked before adopting QE practices?
-
-<h2>Answer</h2>
+Applying quality engineering in practice 
 
 I'm a big propnent of Shift everywhere, although I didn't have a name for it until now.  I believe that involving QA in all stages of the SDLC is valuable because, as QEs, we have a unique point of view.  We look for how things can break or what can happen if X occurs.  We are thinking of paths outside of the happy path.  We're thinking of the users and how people actually use the software as opposed to how they *should* use it.
 
